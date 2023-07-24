@@ -1,0 +1,45 @@
+---
+title: "Home"
+---
+
+This is my home page, that links to all kinds of stuff.
+
+[Here](https://docs.google.com/document/d/1vYE5fymvYNpyUVd9APUqRUy3BS3_jatqYiXHDwDIgfM/edit) is my check-in doc with Angela
+
+[Here](https://docs.google.com/spreadsheets/d/1cuRdXy_Ygj9w3IASRL6ZLEFNn8vclvKzmSXdH6ITukI/edit#gid=0) is weekly planning doc
+
+# Active projects
+
+## Personal qualities
+Waiting on RnR - Under evaluation
+
+## COVID GPA
+Waiting on RnR - Under review
+
+## [Effect sizes](https://lirabenjamin.github.io/effect-size)
+- To write and accept proposal
+- Define sampling criteria
+- Sample metanalyses from past 5 years
+- email authors for data
+- analyze data
+
+## [Role models](https://lirabenjamin.github.io/rolemodels)
+- Write up S1 results cleanly
+- Finalize qualttrics for S2
+- Pilot S2
+- Collect real data for S2
+- Analyze S2
+- Write up S2 results
+- Intro and discussion
+
+## Khan Academy intervention
+- Potential Launch Date:  
+
+## [GPT coding]
+Is it worth doing?
+
+# Backlog of ideas
+- Does writing with chatGPT increase or decrease the amount of information you can get when measuring psychological traits.
+- Are you less or more defensive when getting feedback from chatGPT?
+- Does interacting with a chatbot make you less careful at work?
+- Do we improve on our personal qualities paper by modelling judge fixed effects, or judge fatigue, or time of day?
