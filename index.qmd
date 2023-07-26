@@ -1,12 +1,19 @@
 ---
 title: "Home"
+self_contained: truehttps://opportunityinsights.org/wp-content/uploads/2023/07/CollegeAdmissions_Nontech.pdf?campaign_id=9&emc=edit_nn_20230724&instance_id=98292&nl=the-morning&regi_id=193353144&segment_id=140117&te=1&user_id=3df1c13f67c1cc50465f5cc2ad3445f5
 ---
 
 This is my home page, that links to all kinds of stuff.
 
-[Here](https://docs.google.com/document/d/1vYE5fymvYNpyUVd9APUqRUy3BS3_jatqYiXHDwDIgfM/edit) is my check-in doc with Angela
+<!-- make a button -->
+<button onclick="location.href='https://docs.google.com/document/d/1vYE5fymvYNpyUVd9APUqRUy3BS3_jatqYiXHDwDIgfM/edit'" type="button" style="background-color: #273ec2; color: white; padding: 10px 20px;border-radius: 12px;  border: none;">
+Angela Checkins
+</button>
 
-[Here](https://docs.google.com/spreadsheets/d/1cuRdXy_Ygj9w3IASRL6ZLEFNn8vclvKzmSXdH6ITukI/edit#gid=0) is weekly planning doc
+<button onclick="location.href='https://docs.google.com/spreadsheets/d/1cuRdXy_Ygj9w3IASRL6ZLEFNn8vclvKzmSXdH6ITukI/edit#gid=0'" type="button" style="background-color: #273ec2; color: white; padding: 10px 20px;border-radius: 12px;  border: none;
+">
+Weekly Planning
+</button>
 
 # Active projects
 
@@ -43,3 +50,4 @@ Is it worth doing?
 - Are you less or more defensive when getting feedback from chatGPT?
 - Does interacting with a chatbot make you less careful at work?
 - Do we improve on our personal qualities paper by modelling judge fixed effects, or judge fatigue, or time of day?
+- Does GPT perform better at pairwise comparison than 1/5 rating?
