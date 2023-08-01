@@ -47,7 +47,8 @@ Is it worth doing?
 
 # Backlog of ideas
 - Does writing with chatGPT increase or decrease the amount of information you can get when measuring psychological traits.
-- Are you less or more defensive when getting feedback from chatGPT?
+- What are some potential good consequences of chatGPT being like a person but not being a person.
+  - Are you less or more defensive when getting feedback from chatGPT?
 - Does interacting with a chatbot make you less careful at work?
 - Do we improve on our personal qualities paper by modelling judge fixed effects, or judge fatigue, or time of day?
 - Does GPT perform better at pairwise comparison than 1/5 rating?
