@@ -1,0 +1,11 @@
+---
+title: "Gratitude Journal"
+self_contained: true
+---
+
+# Aug 11, 2023
+I am grateful for having finished that machine learning paper. I think I grew a lot from, and learned a lot from it. It was a lot of work, but I think it was worth it. It will be published in Science Advances, which is a good journal.
+
+I am grateful for recovering quickly from COVID. I got COVID last tuesday, and today friday, I am already feeling much better. I am grateful for my health, and for my body's ability to recover quickly. I was frustrated that I had to take some time off work, and felt terrible, but it was only a few days. Other people, especially during the pandemic, had it far worse. I am also grateful that I have a wife and a work that support me through it.
+
+Perhaps most of all, I am grateful for my wife. Today marks two years since we first got to Philly. Having her by my side during these two years has made all the difference. I am so glad I get to live life next to her. 
