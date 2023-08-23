@@ -15,35 +15,51 @@ Angela Checkins
 Weekly Planning
 </button>
 
+<button onclick="location.href='https://docs.google.com/document/d/13s6nx6HYiW9trQQB7W-npEARN91ONd9QzYcLF39yqrs/edit'" type="button" style="background-color: #273ec2; color: white; padding: 10px 20px;border-radius: 12px;  border: none;
+">
+Thoughts
+</button>
+
+<button onclick="location.href='https://lirabenjamin.github.io/home/gratitude_journal.html'" type="button" style="background-color: #273ec2; color: white; padding: 10px 20px;border-radius: 12px;  border: none;
+">
+Gratitude
+</button>
+
+
+
 # Active projects
 
 ## Personal qualities
-Waiting on RnR - Under evaluation
+- Accepted! Figuring out payment.
+- I should write some social media posts about it.
 
 ## COVID GPA
-Waiting on RnR - Under review
+Waiting on RnR - Under review. 
+- Email them a month from now if I haven't heard anything. September 23
 
 ## [Effect sizes](https://lirabenjamin.github.io/effect-size)
 - To write and accept proposal
-- Define sampling criteria
-- Sample metanalyses from past 5 years
+- Get all emails (Dan is on it)
 - email authors for data
 - analyze data
 
 ## [Role models](https://lirabenjamin.github.io/rolemodels)
 - Write up S1 results cleanly
-- Finalize qualttrics for S2
 - Pilot S2
+  
+*Later*
 - Collect real data for S2
 - Analyze S2
 - Write up S2 results
 - Intro and discussion
 
 ## Khan Academy intervention
+- Waiting on the lawyers to figure out the DUA
 - Potential Launch Date:  
 
-## [GPT coding]
-Is it worth doing?
+## Khan Academy with Stef
+- Meeting Thursday to talk about conversations
+- Waiting on KHan Team for approval
 
 # Backlog of ideas
 - Does writing with chatGPT increase or decrease the amount of information you can get when measuring psychological traits.

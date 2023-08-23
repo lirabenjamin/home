@@ -3,6 +3,15 @@ title: "Gratitude Journal"
 self_contained: true
 ---
 
+# Aug 23, 2023
+I am really grateful that my machine learning paper got accepted! It was a ton of work, and I am happy that I will be able to see it in print.
+
+I am grateful for my wife, we had a turbulent week, and she was so compassionate, so wonderful, and so patient. She cares about other people, in a way I wish I could.
+
+I am grateful for nature. I am returning from a quick trip to New Hampshire to visit Ben. We did a lot of nature activities, like walking in trails on the woods, biking, and canoeing and swimming on the lake. I appreciate the beauty of nature, and am thankful for being physically able to explore it a little bit.
+
+I am grateful for having good friends. I moved to a new country, and that is no guarantee of not feeling lonely. I was able to spend some time with Ben, Maya, and Ben's parents, who in a weird way, I see more as friends than as uncles. I am grateful for having the opportunity to interact with other nice people.
+ 
 # Aug 11, 2023
 I am grateful for having finished that machine learning paper. I think I grew a lot from, and learned a lot from it. It was a lot of work, but I think it was worth it. It will be published in Science Advances, which is a good journal.
 
