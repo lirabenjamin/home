@@ -29,23 +29,24 @@ Gratitude
 
 # Active projects
 
-## Personal qualities
+## 1. Personal qualities
 - Accepted! Figuring out payment.
 - I should write some social media posts about it.
 
-## COVID GPA
+## 2. COVID GPA
 Waiting on RnR - Under review. 
 - Email them a month from now if I haven't heard anything. September 23
 
-## [Effect sizes](https://lirabenjamin.github.io/effect-size)
+## [3. Effect sizes](https://lirabenjamin.github.io/effect-size)
 - To write and accept proposal
 - Get all emails (Dan is on it)
 - email authors for data
 - analyze data
 
-## [Role models](https://lirabenjamin.github.io/rolemodels)
+## [4. Role models](https://lirabenjamin.github.io/rolemodels)
 - Write up S1 results cleanly
 - Pilot S2
+- Pilot 3
   
 *Later*
 - Collect real data for S2
@@ -53,13 +54,17 @@ Waiting on RnR - Under review.
 - Write up S2 results
 - Intro and discussion
 
-## Khan Academy intervention
+## 5. Khan Academy intervention
 - Waiting on the lawyers to figure out the DUA
 - Potential Launch Date:  
 
-## Khan Academy with Stef
+## 6. Khan Academy with Stef
 - Meeting Thursday to talk about conversations
 - Waiting on KHan Team for approval
+
+## 7. MiniKhanmigo
+- Finish up the final details on the flask app
+- Implement a quick version on prolific for a **pilot**
 
 # Backlog of ideas
 - Does writing with chatGPT increase or decrease the amount of information you can get when measuring psychological traits.
