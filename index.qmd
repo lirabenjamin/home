@@ -1,9 +1,7 @@
 ---
-title: "Home"
+title: "Ben's Home"
 self_contained: truehttps://opportunityinsights.org/wp-content/uploads/2023/07/CollegeAdmissions_Nontech.pdf?campaign_id=9&emc=edit_nn_20230724&instance_id=98292&nl=the-morning&regi_id=193353144&segment_id=140117&te=1&user_id=3df1c13f67c1cc50465f5cc2ad3445f5
 ---
-
-This is my home page, that links to all kinds of stuff.
 
 <!-- make a button -->
 <button onclick="location.href='https://docs.google.com/document/d/1vYE5fymvYNpyUVd9APUqRUy3BS3_jatqYiXHDwDIgfM/edit'" type="button" style="background-color: #273ec2; color: white; padding: 10px 20px;border-radius: 12px;  border: none;">
@@ -49,6 +47,7 @@ Waiting on RnR - Under review.
 - Pilot 3
   
 *Later*
+
 - Collect real data for S2
 - Analyze S2
 - Write up S2 results
@@ -65,6 +64,7 @@ Waiting on RnR - Under review.
 ## 7. MiniKhanmigo
 - Finish up the final details on the flask app
 - Implement a quick version on prolific for a **pilot**
+- See it live here for [situation modification](http://reframe001-7a186c892e5e.herokuapp.com/?condition=situation) and [emotion reframing](http://reframe001-7a186c892e5e.herokuapp.com/?condition=emotion). (DO NOT ABUSE)
 
 # Backlog of ideas
 - Does writing with chatGPT increase or decrease the amount of information you can get when measuring psychological traits.
