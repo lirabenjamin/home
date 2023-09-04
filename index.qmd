@@ -41,6 +41,28 @@ Waiting on RnR - Under review.
 - email authors for data
 - analyze data
 
+1. What are people doing
+- Get more pdfs
+- Refine dictionaries / train transformer
+  
+1. What is the correction
+- get datasets from osf
+- process metadat and psymetadata data
+- run robma on everything
+
+- get more emails
+- email people
+- process their data
+- run robma on everything 
+
+1. What do researchers think about it
+- Make a quick mail and question
+- Find sampling strategy
+
+2. No bias in DoE data
+- Get that data from Matt Kraft
+- Run robma on it
+
 ## [4. Role models](https://lirabenjamin.github.io/rolemodels)
 - Write up S1 results cleanly
 - Pilot S2
