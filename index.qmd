@@ -28,7 +28,7 @@ Gratitude
 # Active projects
 
 ## 1. Personal qualities
-- Accepted! Figuring out payment.
+- In Press
 - I should write some social media posts about it.
 
 ## 2. COVID GPA
@@ -55,38 +55,38 @@ Waiting on RnR - Under review.
 - process their data
 - run robma on everything 
 
+- Data should be coded for covariates: social/cognitive, lab/field, cross-sectional/longitudinal, methodvariance
+
 1. What do researchers think about it
 - Make a quick mail and question
 - Find sampling strategy
+- Sample people at SPSP?
 
-2. No bias in DoE data
+1. No bias in DoE data
 - Get that data from Matt Kraft
 - Run robma on it
 
 ## [4. Role models](https://lirabenjamin.github.io/rolemodels)
 - Write up S1 results cleanly
-- Pilot S2
-- Pilot 3
+- S2: Running a fully powered study: Figure out pre-reg and qualtrics
+- Plan out S3 to present to lab meeting
   
 *Later*
-
-- Collect real data for S2
 - Analyze S2
 - Write up S2 results
 - Intro and discussion
 
 ## 5. Khan Academy intervention
-- Waiting on the lawyers to figure out the DUA
+- Revieweing DUA comments
 - Potential Launch Date:  
 
 ## 6. Khan Academy with Stef
-- Meeting Thursday to talk about conversations
 - Waiting on KHan Team for approval
+- Email them results from our Saturday conversation.
 
 ## 7. MiniKhanmigo
-- Finish up the final details on the flask app
-- Implement a quick version on prolific for a **pilot**
 - See it live here for [situation modification](http://reframe001-7a186c892e5e.herokuapp.com/?condition=situation) and [emotion reframing](http://reframe001-7a186c892e5e.herokuapp.com/?condition=emotion). (DO NOT ABUSE)
+- Finalize qualtrics pilot
 
 # Backlog of ideas
 - Does writing with chatGPT increase or decrease the amount of information you can get when measuring psychological traits.
@@ -96,3 +96,4 @@ Waiting on RnR - Under review.
 - Do we improve on our personal qualities paper by modelling judge fixed effects, or judge fatigue, or time of day?
 - Does GPT perform better at pairwise comparison than 1/5 rating?
 - The overreliance problem... How much should I read the code given by chatGPT and try to learn from it, vs. how much should I delegate. Just be quicker. There is a tradeoff between learning and speed. I can see some cases where this leads to a hyperbolic discounting problem.
+- Absenses are increasing throuought after covid. People did not go back to regular in-person. Student absenteeism is way up, adults are not back at their jobs, older people are not going back to church. Is there a way to show generalized diminishes in real-life attendance to in-person events and social interaction. Loneliness epidemic framing.
