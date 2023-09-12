@@ -23,7 +23,13 @@ Thoughts
 Gratitude
 </button>
 
+# Upcoming deadlines
 
+<script src="https://cdn.logwork.com/widget/countdown.js"></script>
+<a href="https://logwork.com/countdown-1a4u" class="countdown-timer" data-style="columns" data-timezone="America/New_York" data-date="2023-11-06 13:30">Duckworth Milkman Lab Meeting: Nov 6 13:30</a>
+
+<script src="https://cdn.logwork.com/widget/countdown.js"></script>
+<a href="https://logwork.com/countdown-1a4u" class="countdown-timer" data-style="columns" data-timezone="America/New_York" data-date="2023-11-13 23:59">Third Year Paper Proposals: Nov 13 23:59</a>
 
 # Active projects
 
